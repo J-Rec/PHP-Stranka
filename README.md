@@ -1,0 +1,2 @@
+Rozhodl jsem se, že se jako cíl tohoto roku pokusím naučit v nějakém programovacím jazyku. Jelikož mě klasické programování bohužel moc nebere, tak jsem si řekl, že naučit se vytvářet internetové stránky pro mě bude nejpřínosnější, a tak jsem se rozhodl naučit se dělat v PHP. Ještě je samozřejmě co dodělávat, ale do konce roku své vědomosti určitě rozšířím a tento projekt snad dopiluji.
+Toto je pro zatím první iterace mé internetové stránky.
