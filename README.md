@@ -17,6 +17,8 @@ Jako poslední jsem udělal tlačítko "koupit a zaplatit", které případného
 A tady je krátké video, jak vlastně celá stránka funguje.
 https://github.com/user-attachments/assets/801c2b8d-1146-4b2f-96a4-5f252d486120
 
-
-
-
+Citace:
+Jakožto úplný začátečník v PHP jsem využil několik PHP videí pro začátečníky na youtube, také mě velice pomohla umělá inteligence ChatGPT:
+https://www.youtube.com/watch?v=1W0rL0AUh-o&t=7s
+https://www.youtube.com/watch?v=ZdP0KM49IVk&list=TLPQMDgwMTIwMjU_rqqFopQqyA&index=2
+https://www.youtube.com/watch?v=a7_WFUlFS94
