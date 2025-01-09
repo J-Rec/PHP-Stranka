@@ -23,3 +23,5 @@ Jakožto úplný začátečník v PHP jsem využil několik PHP videí pro zač�
 https://www.youtube.com/watch?v=1W0rL0AUh-o&t=7s
 https://www.youtube.com/watch?v=ZdP0KM49IVk&list=TLPQMDgwMTIwMjU_rqqFopQqyA&index=2
 https://www.youtube.com/watch?v=a7_WFUlFS94
+
+
